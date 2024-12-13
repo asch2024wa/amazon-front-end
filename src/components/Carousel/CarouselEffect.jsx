@@ -1,6 +1,6 @@
 import React from 'react'
 import classes from"./Carousel.module.css"
-import {images } from './images/data'
+import {images } from './images/Data'
 import {Carousel} from 'react-responsive-carousel'
 import "react-responsive-carousel/lib/styles/carousel.min.css"
 
