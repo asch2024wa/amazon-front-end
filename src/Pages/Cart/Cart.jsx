@@ -1,8 +1,8 @@
 import React, { useContext } from "react";
-import LayOut from "../../Components/LayOut/LayOut";
+import LayOut from "../../components/Layout/Layout";
 import { DataContext } from "../../components/DataProvider/DataProvider";
 import classes from "./Cart.module.css";
-import ProductCard from "../../Components/Product/ProductCard";
+import ProductCard from "../../components/Product/ProductCard";
 import CurrencyFormat from "../../components/CurrencyFormatter/CurrencyFormatter";
 import { Link } from "react-router-dom";
 import { IoIosArrowUp } from "react-icons/io";
